@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Lexend:100,200,300,400,500,600,700,800,900"
       }
     ],
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "uniqCompNum": 2,
     "versionPublish": "5.7.8",
     "screenshot": "screenshot.png",
